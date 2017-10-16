@@ -1,0 +1,15 @@
+{
+    "title": "Ty",
+    "baseURL": "https:\/\/www.tutit.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759035",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "tutit.com"
+    }
+}
